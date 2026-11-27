@@ -1,0 +1,6 @@
+{
+  "name": "留学生の家計簿",
+  "description": "留学生向けのシンプルで使いやすい家計簿アプリ。日々の支出をブラウザに保存して管理できます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
